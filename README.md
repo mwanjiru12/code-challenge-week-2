@@ -22,7 +22,7 @@ This function takes an array of numbers as input and returns a new array contain
 
 ## Installations
 Git Clone https://github.com/mwanjiru12/code-challenge-week-2
-To use these programs, you will need a JavaScript environment, such as a web browser or Node.js.
+<br />To use these programs, you will need a JavaScript environment, such as a web browser or Node.js.
 
 ## Usage
 To use a web browser, copy and paste the code into a .js file, and then include it in an HTML file using the <script> tag. <br />
@@ -30,12 +30,12 @@ To use Node.js, install the Node.js runtime and ensure that you have Node.js ver
 <br /> Then, create a new directory and run npm init -y to create a new package.json file. Next, save the code to a .js file in the same directory, and run node <file>.js to execute the code.
 
 ## Technologies used
-Github
-Javascript
+Github 
+<br />Javascript
 
  ## Author
 Maria Wanjiru
-https://github.com/mwanjiru12
+<br />https://github.com/mwanjiru12
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
