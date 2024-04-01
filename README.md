@@ -25,9 +25,9 @@ Git Clone https://github.com/mwanjiru12/code-challenge-week-2
 <br />To use these programs, you will need a JavaScript environment, such as a web browser or Node.js.
 
 ## Usage
-To use a web browser, copy and paste the code into a .js file, and then include it in an HTML file using the <script> tag. <br />
-To use Node.js, install the Node.js runtime and ensure that you have Node.js version 10 or higher. 
-<br /> Then, create a new directory and run npm init -y to create a new package.json file. Next, save the code to a .js file in the same directory, and run node <file>.js to execute the code.
+To use a web browser, copy and paste the code into a .js file, and then include it in an HTML file using the <script> tag.
+<br />To use Node.js, install the Node.js runtime and ensure that you have Node.js version 10 or higher. 
+<br /> Then, create a new directory and run npm init -y to create a new package.json file. Next, save the code to a .js file in the same directory, and run node (filename).js to execute the code.
 
 ## Technologies used
 Github 
