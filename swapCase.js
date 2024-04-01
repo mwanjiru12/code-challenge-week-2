@@ -5,7 +5,7 @@ const rl = readline.createInterface({
     output: process.stdout
 });
 
-//prompts the user to input a string.
+//prompts the user to input a string into the readline interface.
 rl.question('Enter a string: ', function (input) {
     let result = '';
     //uses a "for" loop to iterate through each character in the input string.

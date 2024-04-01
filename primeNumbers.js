@@ -5,7 +5,7 @@ const rl = readline.createInterface({
     output: process.stdout
 });
 
-//prompts the user to input an array of numbers.
+//prompts the user to input an array of numbers into the readline interface.
 rl.question('Enter an array of numbers separated by spaces: ', function (input) {
     //uses the "split" method to split the input string into an array of strings
     // uses the "map" method to convert each string to an integer.

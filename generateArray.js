@@ -4,7 +4,7 @@ const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout
 });
-// prompt the user to enter two numbers.
+// prompt the user to enter two numbers into the readline interface.
 rl.question('Enter the first number: ', function (firstNum) {
     rl.question('Enter the second number: ', function (secondNum) {
         // convert the two numbers to integers.
