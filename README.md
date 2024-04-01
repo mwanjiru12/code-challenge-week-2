@@ -8,7 +8,7 @@
 
  ## Swapcase.
 This function accepts a string as input and swaps the case of each character. 
-For example if you input 'The Quick Brown Fox' the output should be 'tHE qUICK bROWN fOX'.
+<br />For example if you input 'The Quick Brown Fox' the output should be 'tHE qUICK bROWN fOX'.
 
 ## Array Generator
 This function accepts two numbers to generate an array between them. 
